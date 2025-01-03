@@ -1,5 +1,3 @@
-package com.shaharyi.node;
-
 public class Node<T> {
   private T value;
   private Node<T> next;
